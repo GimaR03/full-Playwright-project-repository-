@@ -2,6 +2,12 @@
 
  # Playwright Automation Testing Project
 
+ ## Project Folder Name
+**IT23673922**
+
+## Git Repository URL
+https://github.com/GimaR03/full-Playwright-project-repository-
+
 ## Project Overview
 This project contains automated UI and functional test cases implemented using
 Playwright to test a Singlish-to-Sinhala transliteration web application.
@@ -25,10 +31,10 @@ The tests cover:
 ## Installation Steps
 
 1. Clone the repository:
-   git clone <YOUR_GIT_REPOSITORY_URL>
+   git clone https://github.com/GimaR03/full-Playwright-project-repository-
 
 2. Navigate to the project folder:
-   cd playwright-project
+   cd playwright-IT23673922
 
 3. Install dependencies:
    npm install
@@ -59,6 +65,7 @@ npx playwright show-report
 - README.md → Project documentation
 
 ---
+
 
 
 
